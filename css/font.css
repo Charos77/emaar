@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter/Inter-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Jost';
+    src: url(../fonts/Jost/Jost-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Akrobat';
+    src: url(../fonts/Akrobat/Akrobat-Regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'alethiapro';
+    src: url(../fonts/Alethia/alethiapro-regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/Lato/Lato-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/Lato/Lato-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/Lato/lato-medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url(../fonts/Manrope/Manrope-Regular.ttf);
+    font-weight: 400;
+}
